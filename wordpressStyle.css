@@ -1,0 +1,19 @@
+*{
+    padding:0;
+    margin:0 auto;
+	font-family:arial;
+}
+figure{
+	padding:15px;
+}
+p{
+	padding:10px 0 10px 20px;
+}
+.topBar{
+	background:#484848;
+	height:50px;
+}
+.inputStyle{
+	border:1px solid #b4b4b4;
+	padding:10px;
+}
